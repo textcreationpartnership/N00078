@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000125_0000_0FA029FE8AEA3850"/>
-            <pb facs="tcp:000125_0001_0FA029FF3B5FDC10"/>
+            <pb facs="unknown:000125_0000_0FA029FE8AEA3850"/>
+            <pb facs="unknown:000125_0001_0FA029FF3B5FDC10"/>
             <p>SEVERAL LAVVS AND ORDERS Made at the General Court, Held at Boston in <hi>New-England,</hi> October <hi>14. 1668.</hi>
             </p>
             <p>PRinted and Published by their Order.</p>
@@ -122,7 +122,7 @@
       </front>
       <body>
          <div type="laws_and_orders">
-            <pb n="9" facs="tcp:000125_0002_0FA029FFEBEDB270"/>
+            <pb n="9" facs="unknown:000125_0002_0FA029FFEBEDB270"/>
             <head>Several Laws and Orders, Made at the General Court held at <hi>Boston</hi> in <hi>NEW ENGLAND.</hi> October 14. 1668.</head>
             <div type="orders">
                <head>Maritime Affaires.</head>
@@ -136,7 +136,7 @@
                      </gap>tches, Barques and other vessels, in setting forth their se<g ref="char:EOLhyphen"/>veral parts, whereby damage doth accrew to the particular con<g ref="char:EOLhyphen"/>cernment of owners, and if not prevented, may be a great obstru<g ref="char:EOLhyphen"/>ction of Trade, where there are several owners concerned, as owners in Ship, Ketch, Barque or other Vessel whatsoever, used for Traffick, Commerce, Fishing, Log, Board, Wood or Stone, car<g ref="char:EOLhyphen"/>riage upon salt or fresh Water, all such owners of lesser part, shall be concluded for the setting forth of his part, by the major part of the whole concerned, such owners so concluded, having notice gi<g ref="char:EOLhyphen"/>ven them of the meeting for such conclusion, if they be nigh hand; and in case of any owner refusing, or by reason of neglect or absence, or not able to provide for the setting forth his part, the Master of such Ship or Vessel may take up upon the bottom, for the setting forth of the said part; the which being defrayed, the re<g ref="char:EOLhyphen"/>mainder of the income of such part to be paid by the Master to the said owner.</p>
                </div>
                <div n="2" type="section">
-                  <pb n="10" facs="tcp:000125_0003_0FA02A00A61DB0C0"/>
+                  <pb n="10" facs="unknown:000125_0003_0FA02A00A61DB0C0"/>
                   <head>
                      <hi>Sect.</hi> 2.</head>
                   <p>And in case of Fraightment, where any owner shall refuse to as<g ref="char:EOLunhyphen"/>sent to the letting out of Ship or Vessel, where he is interessed, such dissenter shall manifest it by some publick act of protest, before the signing of charter party, except the master or the rest of the owners or both, conceal from him or them their actings, then his or their protest after charter party, signed by themselves or agents, shall be taken for legal dissent, yet not to hinder the proceed of the Ship or Vessel, but that those so sending her forth, shall be liable to respond his part upon ensurance according to the custome of Merchants, which ensurance is to be defalked out of that part of hire, due for such owners which dissented.</p>
@@ -156,7 +156,7 @@
                   <head>
                      <hi>Sect.</hi> 5.</head>
                   <p>For the Masters better securing their men to them, and to prevent
-<pb n="11" facs="tcp:000125_0004_0FA02A01B9223498"/>
+<pb n="11" facs="unknown:000125_0004_0FA02A01B9223498"/>
 all Coven, they shall make clear agreements with their Marriners, and Officers, for their wages, and those agreements enter into a Book, and take the several mens hands thereto, a copy whereof the Master as a portlige bill shall leave with their owners if required of them, before their setting saile upon the voyage, and all such agree<g ref="char:EOLhyphen"/>ments, the Master shall make good to the seamen, and such ship or vessel as they saile in, shall be liable for to make good the same.</p>
                </div>
                <div n="6" type="section">
@@ -180,7 +180,7 @@ all Coven, they shall make clear agreements with their Marriners, and Officers, 
                   <head>
                      <hi>Sect.</hi> 9.</head>
                   <p>Any Master hired out or imployed by his owners upon any voyage, receiving advice from his imployers, that the alteration of the voyage when they are abroad, may be much for their security and advantage, by going to some other port, the Master seeing meet to close with that advice, the marriners shall not hinder his proceed<g ref="char:punc">▪</g> unless where any of the seamen shall have made a particular contract with the Master to the contrary<g ref="char:punc">▪</g> provided that they be not carried to
-<pb n="12" facs="tcp:000125_0005_0FA02A0227CC7230"/>
+<pb n="12" facs="unknown:000125_0005_0FA02A0227CC7230"/>
 stay out above one year, nor be carried to any place where they may be liable to be pressed into a service they are not willing unto</p>
                </div>
                <div n="10" type="section">
@@ -210,7 +210,7 @@ stay out above one year, nor be carried to any place where they may be liable to
                   <p>In case of loss of goods by reason of throwing some over board to ease the vessel to save the rest, the goods thrown over board, shall not be done without the Master and major part of the companies consent, or at least of the officers with the Master, which goods shall be brought into an Avarage, and the whole loss to be born by ship, and goods, and wages in proportion that are saved; the like course shall be for cutting of Masts, and loss thereof, or boats, cables or anchors, as also of riggin and sailes, for the safety of the whole, the Merchants goods are to bear a part of the loss.</p>
                </div>
                <div n="15" type="section">
-                  <pb n="13" facs="tcp:000125_0006_0FA02A02F3A0BC60"/>
+                  <pb n="13" facs="unknown:000125_0006_0FA02A02F3A0BC60"/>
                   <head>
                      <hi>Sect.</hi> 15.</head>
                   <p>In case a ship or vessel, at setting forth proves deficient, and gives over the voyage, the charges the Merchant hath sustained in ship<g ref="char:EOLhyphen"/>ping and landing his goods, shall be born by the Master &amp; owners of such vessel, that presumes to take goods into an insufficient bottom.</p>
@@ -246,7 +246,7 @@ stay out above one year, nor be carried to any place where they may be liable to
                   <p>All marriners shall keep true watch at sea or in harbor, as the Ma<g ref="char:EOLhyphen"/>ster shall appoint, upon pain of forfeit of twelve pence for every default, to be defalked out of their wages.</p>
                </div>
                <div n="22" type="section">
-                  <pb n="14" facs="tcp:000125_0007_0FA02A03C0D52E38"/>
+                  <pb n="14" facs="unknown:000125_0007_0FA02A03C0D52E38"/>
                   <head>
                      <hi>Sect.</hi> 22.</head>
                   <p>Any marriner that hath entred upon a voyage, and shall depart and leave the voyage, shall forfeit all his wages, one half to the poor, the other half to the Master and owners, and be further pu<g ref="char:EOLhyphen"/>nished by imprisonment or otherwise as the case may be circum<g ref="char:EOLhyphen"/>stanced, to be judged by the Magistrate or Magistrates they are complained to, except such seaman shall shew just cause for his so leaving the voyage, and shall procure an order therefore from Au<g ref="char:EOLhyphen"/>thority.</p>
@@ -278,7 +278,7 @@ stay out above one year, nor be carried to any place where they may be liable to
                </div>
             </div>
             <div type="orders">
-               <pb n="15" facs="tcp:000125_0008_0FA02A04670067D0"/>
+               <pb n="15" facs="unknown:000125_0008_0FA02A04670067D0"/>
                <head>Bastards.</head>
                <p>
                   <hi>WHereas there is a Law provided by this Court for punishing of Fornicators, but nothing as yet for the easing of Towns, where Bastards are born, in regard of the poverty of the Parent or Parents of such Children sometimes appearing, nor any rule held forth touching the reputed Father of a Bastard for legal conviction.</hi>
@@ -286,7 +286,7 @@ stay out above one year, nor be carried to any place where they may be liable to
                <p>It is therefore Ordered, and by this Court Declared, that where any man is legally convicted to be the Father of a Bastard childe, he shall be at the care and charge to maintain and bring up the same, by such assistance of the Mother as nature requireth, and as the Court from time to time (accor<g ref="char:EOLunhyphen"/>ding to circumstances) shall see meet to Order: and in case the Father of a Bastard, by confession or other manifest proof<g ref="char:punc">▪</g> upon trial of the case, do not appear to the Courts satisfa<g ref="char:EOLhyphen"/>ction, then the Man charged by the Woman to be the Fa<g ref="char:EOLunhyphen"/>ther, shee holding constant in it, (especially being put upon the real discovery of the truth of it in the time of her Travail shall be the reputed Father, and accordingly be liable to the charge of maintenance as aforesaid (though not to other punishment) notwithstanding his denial, unless the circumstan<g ref="char:EOLunhyphen"/>ces of the case and pleas be such, on the behalf of the man charged, as that the Court that have the cognizance thereon shall see reason to acquit him, and otherwise dispose of the Childe and education thereof. Provided alwayes, in case there be no person accused in the time of her travail, it shall not be available to abate the conviction of a reputed Father, any Law, Custome or usage to the contrary notwithstanding.</p>
             </div>
             <div type="order">
-               <pb n="16" facs="tcp:000125_0009_0FA02A0599DF8900"/>
+               <pb n="16" facs="unknown:000125_0009_0FA02A0599DF8900"/>
                <head>Tolling of Cattle.</head>
                <p>
                   <hi>FOr the prevention of felonious practices growing upon us, by stealing of Horse-kinde, and other Neat Cattle, and selling them as their own</hi>
@@ -298,7 +298,7 @@ stay out above one year, nor be carried to any place where they may be liable to
                <p>IT is Ordered by this Court and the Authority thereof, that the Secretary for the time being, shall from time to time, sign all warrants for the execution of persons sentenced to death, either in the General Court or Court of Assistants: and that the Secretary or Clerk of every Court, shall signe Warrants for executions in all other judgements of Courts civil or criminal; any custome or usage to the contrary notwithstanding.</p>
             </div>
             <div type="law">
-               <pb n="17" facs="tcp:000125_0010_0FA02A05F94B34B0"/>
+               <pb n="17" facs="unknown:000125_0010_0FA02A05F94B34B0"/>
                <head>Idle Persons.</head>
                <p>WHereas in the Law <hi>tit.</hi> House of Correction, Idle persons are particularly named as such, as the Law intendeth should be committed to that House for Correction and reformation: This Court taking notice, upon good information and sad complaints, that there are some persons in this Jurisdiction, that have families to provide for, who greatly neglect their callings, or mispend what they earn, whereby their families are in much want, and are thereby ex<g ref="char:EOLhyphen"/>posed to suffer, and to need relief from others.</p>
                <p>
@@ -319,7 +319,7 @@ stay out above one year, nor be carried to any place where they may be liable to
             <div type="order">
                <head>Single Persons.</head>
                <p>IT is Ordered by this Court and the Authority hereof, that the following Order shall be directed and sent by the <hi>Clerks</hi> of the several shire <hi>Courts,</hi> to the <hi>Constables</hi> of the <hi>Towns</hi> within their shire, who are enjoyned faithfully to execute the same, and if upon the
-<pb n="18" facs="tcp:000125_0011_0FA02A073171B318"/>
+<pb n="18" facs="unknown:000125_0011_0FA02A073171B318"/>
 return made, it doth appear that the Select Men are negligent in executing the Laws therein mentioned; the Court shall proceed against them by Admonition, or fine, as the merit of the case may require, and shall also dispose of single persons, or stubborn chil<g ref="char:EOLhyphen"/>dren or servants, to the House of Correction, according to the in<g ref="char:EOLhyphen"/>tent of the Law, any Law, Custome or Usage to the contrary not<g ref="char:EOLhyphen"/>withstanding.</p>
             </div>
             <div type="order">
@@ -330,7 +330,7 @@ return made, it doth appear that the Select Men are negligent in executing the L
                   <hi>The neglect whereof, as by sad experience from Court to Court abun<g ref="char:EOLhyphen"/>dantly appears, doth occasion much sin and prophaness to increase among us, to the dishonour of God, and the ensnaring of many Children and Servants, by the dissolute lives and practices of such as do live from under Family Government, and is a great discouragement to those Fa<g ref="char:EOLunhyphen"/>mily Governours, who conscientiously endeavour to bring up their Youth in all Christian nurture, as the Laws of God and this Common wealth doth require:</hi>
                </p>
                <p>THese are therefore in his Majesties Name to require you to acquaint the Select men of your Town, that the Court doth expect and will require, that the said Laws be accordingly atten<g ref="char:EOLhyphen"/>ded, the prevalency of the former neglect notwithstanding: and you are also required to take a list of the names of those young persons within the bounds of your Town, and all adjacent Farms though out of all Town bounds, who do live from under Family Government, <hi>viz.</hi> do not serve their Parents or Masters, as Chil<g ref="char:EOLhyphen"/>dren, Apprentices, hired Servants, or Journey men ought to do, and usually did in our Native Country, being subject to their com<g ref="char:EOLhyphen"/>mands
-<pb n="19" facs="tcp:000125_0012_0FA02A0763235C80"/>
+<pb n="19" facs="unknown:000125_0012_0FA02A0763235C80"/>
 and discipline, and the same you are to return to the next Court to be held at  <gap reason="blank" extent="1 word">
                      <desc> _____ </desc>
                   </gap>  on the  <gap reason="blank" extent="1 word">
@@ -352,7 +352,7 @@ and discipline, and the same you are to return to the next Court to be held at  
                   <hi>FOr the better preserving of Peace, and every mans Liberty and Safety in this Jurisdiction, and to the end that all fighting quarrel<g ref="char:EOLunhyphen"/>ling and disturbance may be avoided.</hi> It is by this Court Ordered, and by the Authority thereof enacted, that no person shall beat, hurt or strike any other person, upon penalty of paying to the party stricken, by fine to the County where the offence is committed, or both, such sum or sums as the County Court, Magistrate, Com<g ref="char:EOLunhyphen"/>missioner or Associate, that take cognizance thereof shall determine: and because in this case several circumstances may alter the degree of the offence, as who do smite, who is smitten, with what instru<g ref="char:EOLunhyphen"/>ment, the danger of the wound, more or less, time, place and pro<g ref="char:EOLunhyphen"/>vocation, and other the like, it is left to the discretion of the Judges aforesaid, upon hearing and consideration, to impose such penalty or penalties, as in their discretion shall seem just, equal and propor<g ref="char:EOLhyphen"/>tionable to the merit of the offence.</p>
             </div>
             <div type="order">
-               <pb n="20" facs="tcp:000125_0013_0FA02A2B178E4600"/>
+               <pb n="20" facs="unknown:000125_0013_0FA02A2B178E4600"/>
                <head>Age for Plantiffs and Defendants.</head>
                <p>IT is Ordered by this Court and the Authority hereof, that the age for <hi>Plantiffs</hi> and <hi>Defendants</hi> in civil cases, before any Magistrate, Commissioner or Court of Judicature, shall be twenty one years of age, and for all persons under that age, their <hi>Parents, Masters,</hi> and <hi>Guardians</hi> as they shall see meet shall plead and defend their right and interest, as the matter may require; and in all criminal cases, every person younger as well as elder, shall be liable to an<g ref="char:EOLunhyphen"/>swer in their own persons, for such misdemeanours as they shall be accused of, and may also inform and present any misdemeanour to any Magistrate, Grand-jury-man or Court, any Law, Custome or Usage to the contrary notwithstanding.</p>
             </div>
@@ -363,7 +363,7 @@ and discipline, and the same you are to return to the next Court to be held at  
             <trailer>FINIS.</trailer>
          </div>
          <div type="laws_and_orderes">
-            <pb n="21" facs="tcp:000125_0014_0FA02A2C5CA3B9E0"/>
+            <pb n="21" facs="unknown:000125_0014_0FA02A2C5CA3B9E0"/>
             <head>SEVERAL Laws and Orders Made at the Generall Court of <hi>ELECTION</hi> Held at <hi>Boston,</hi> May 19<hi rend="sup">th</hi> 1669.</head>
             <head type="sub">And Printed and Published by their Order, <hi>June 4. 1669. EDW DRAWSON</hi> Secret'.</head>
             <div type="orders">
@@ -377,7 +377,7 @@ and discipline, and the same you are to return to the next Court to be held at  
                <div n="2" type="order">
                   <head>II.</head>
                   <p>All Goods, Wares and Merchandizes as aforesaid, shall be here valued as followeth; that is, Every hundred pounds at the Port or place from whence it came, to be accounted here at One hun<g ref="char:EOLhyphen"/>dred and twenty pounds: which peny <hi>per</hi> twenty shillings shall be
-<pb n="22" facs="tcp:000125_0015_0FA02A2DB7BA0978"/>
+<pb n="22" facs="unknown:000125_0015_0FA02A2DB7BA0978"/>
 paid by the Agent, Factor, Owner, or other person, by whom they are brought, or to whom they are sent or consigned; and so according to the same proportion for all greater or lesser quanti<g ref="char:EOLhyphen"/>ties whatsoever.</p>
                </div>
                <div n="3" type="order">
@@ -397,7 +397,7 @@ paid by the Agent, Factor, Owner, or other person, by whom they are brought, or 
                   <p>And in case of deniall or delay of payment, the Collector au<g ref="char:EOLhyphen"/>thorized as aforesaid shall levy the same by distress upon the said goods, at the rate or price set in the Invoyce, out of which he shall have two shillings <hi>per</hi> pound for his time and labour therein: And for the more full effecting hereof, the said Collector is impowered to require aid (if need be) as any Constable may in the like ser<g ref="char:EOLhyphen"/>vice, and no man may refuse to assist, upon the same penalty the Law in that case express.</p>
                </div>
                <div n="7" type="order">
-                  <pb n="23" facs="tcp:000125_0016_0FA02A2E786B34F0"/>
+                  <pb n="23" facs="unknown:000125_0016_0FA02A2E786B34F0"/>
                   <head>VII.</head>
                   <p>If any Invoyce or bill of parcels shall be falsified, concealed, or not produced, of any goods or other things imported as afore<g ref="char:EOLhyphen"/>said, it shall be lawful for the Treasurer or Collector, with the Select men of each Town therein concerned, to Rate all such goods, or the Owner or other Agent for the same, by will and doom according to their best discretion; provided it be not less then four pounds <hi>per</hi> Tun, as the same stands entred in the bill of Lading in the Boatswain or other Officers book.</p>
                </div>
@@ -412,7 +412,7 @@ paid by the Agent, Factor, Owner, or other person, by whom they are brought, or 
                <div n="10" type="order">
                   <head>X.</head>
                   <p>The Country Treasurer for the time being is hereby impowered and required duly to execute, or cause to be duly and fully executed this present Order in each particular part thereof; who is also im<g ref="char:EOLhyphen"/>powered and authorised to depute and impower all such officers under him, as he shall judge necessary for the accomplishment
-<pb n="24" facs="tcp:000125_0017_0FA02A2F2614A840"/>
+<pb n="24" facs="unknown:000125_0017_0FA02A2F2614A840"/>
 thereof, who upon Warrant to them directed under his Hand and Seal shall attend the same: And the said officer or officers shall be accountable to the said Treasurer, when he shall call them thereunto.</p>
                </div>
                <div n="11" type="order">
@@ -456,7 +456,7 @@ thereof, who upon Warrant to them directed under his Hand and Seal shall attend 
                      </item>
                   </list>
 Be all and every of them appointed, impowered, and required to search for, and seize all Moneys of the Coin of this Jurisdiction, that shall be found or discovered in any Ship, or any other vessel
-<pb n="25" facs="tcp:000125_0018_0FA02A3008CD0188"/>
+<pb n="25" facs="unknown:000125_0018_0FA02A3008CD0188"/>
 hath weighed Anchor to depart from that Port where she ladeth, or all such Money that shall be found in any persons Pocket, Cloak-bag, Portmantel, or any other thing belonging <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>, after such person hath taken Horse-back, to proceed and <gap reason="illegible: indecipherable" extent="1 word">
@@ -473,7 +473,7 @@ hath weighed Anchor to depart from that Port where she ladeth, or all such Money
                </head>
                <p>
                   <hi>ON Complaint, and consideration of sundry Inconveniences both to Creditors and Debtors, through want of seasonable examina<g ref="char:EOLhyphen"/>tion and ballancing of Book-accompts</hi>; It is Ordered, and by this
-<pb n="26" facs="tcp:000125_0019_0FA02A30C4093FB8"/>
+<pb n="26" facs="unknown:000125_0019_0FA02A30C4093FB8"/>
 Court Enacted, That all such book-debts as are now standing out, or that hereafter shall be made, and that shall not within three years after publication hereof, or within three years after such debt as hereafter shall be made, be accounted for or bal<g ref="char:EOLhyphen"/>lanced with the original Debtor, or his Attorney, Agent, Assign, or other lawful Successor or Substitute, and on accompt or bal<g ref="char:EOLhyphen"/>lance thereof, assured by Specialty given for it, or witnessed by subscribing the Debtor or other Accomptants Name to the Cre<g ref="char:EOLhyphen"/>ditors book, or the Subscription of the Witnesses to such Ac<g ref="char:EOLhyphen"/>compt, Shall not be pleadable in any Court; unless such book-debt shall within the time before-limited, be prosecuted or proved in such Court as hath proper cognizance thereof, by Evidence competent and approved by the said Court: And the Evidence there recorded, and the Record thereof, shall secure the Creditor, his Executors, administrators and assigns, unless the Debtor or his assigns shall disprove the same, within one year after such proof made, or recovery of the said debt, if such Debtor, his or her agent, attorney, assign, substitute, executor, administrator, or other lawful successor, be or shall be within this Jurisdiction, or elsewhere, and have due notice from the Creditor thereof.</p>
             </div>
             <div type="order">
@@ -485,7 +485,7 @@ Court Enacted, That all such book-debts as are now standing out, or that hereaft
                <head>Law to prevent breaking of Prisons.</head>
                <p>
                   <hi>ON Complaint of the Keeper of the Prison, That some Malefactors and other Prisoners have made Escape, by means of some evil-disposed persons that supply them with Instruments to effect the same</hi>; It is therefore ordered by this Court, and the Authority thereof, That if any person whatsoever shall any wayes, either directly or
-<pb facs="tcp:000125_0020_0FA02A3165ED9C28"/>
+<pb facs="unknown:000125_0020_0FA02A3165ED9C28"/>
 indirectly, convey any instrument or other thing whatsoever, to any prisoner, by which such prisoner, or any other prisoner, either shall, may, or might break prison, or work him or her self unlaw<g ref="char:EOLhyphen"/>fully out of the same; if it were for debt, such person so trans<g ref="char:EOLhyphen"/>gressing shall pay the full debt, and incurre the penalty of For<g ref="char:EOLhyphen"/>feiture of as much to the Country, or undergo such corporal pu<g ref="char:EOLhyphen"/>nishment as the Court on whose proceedings such imprisonment followed, or the Court of Assistants, shall impose, order or ap<g ref="char:EOLhyphen"/>point: And if any prisoner committed for offence or offences, Criminal or Capital, shall by such wicked compliance of any person, break prison, or make escape out of prison, or be found in preparation thereunto, The person or persons which directly or indirectly conveyed such instruments, tools, or other things, whereby such prisoner shall or might work his or her escape from prison; such person shall be liable to the same corporal punish<g ref="char:EOLhyphen"/>ment which the prisoner was liable unto, and also incurre such fur<g ref="char:EOLhyphen"/>ther penalty by Fine, imprisonment, or corporal punishment, as the County Court, Court of Assistants, or General Court shall ap<g ref="char:EOLhyphen"/>point: So that where the prisoners are not actually escaped, in such cases any Court to moderate as they shall see meet. And if the escape of any prisoner appear to be through the fault or neg<g ref="char:EOLhyphen"/>lect of the Jaylor, he shall then be liable to such penalties as the prisoner was, according as the Court which hath cognisance there<g ref="char:EOLhyphen"/>of shall determine.</p>
             </div>
             <trailer>FINIS.</trailer>
